@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="3~syIJz:?rZl}COA:`X3" x="0" y="0"></block><block type="device_forever" id="]uAy0?*l5_{X$hGWcZ@)" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="OX~UepyyO/G!Qk:iG/~U" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="ET$w@YgT@Fr~yxAS3Q%T"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="pxt-on-start" id="Sd@LRGsWRC[Pkn,n4e}]" x="56" y="388"><statement name="HANDLER"><block type="device_plot" id="MgTS.sFR6+lr.pjNSt9?"><value name="x"><shadow type="math_number_minmax" id="kO}aeDMf6B+H8q88t7KT"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="[%aemQbM+0nX~=aRNCzy"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_play_note" id="{iA72m;7rD@DRc9;Vr)3"><value name="note"><shadow type="device_note" id="@1LuH42lJl~ikzmrcK|y"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="f7_Hu=2l!T~aZ=-^y7vx"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block></xml>
